@@ -79,6 +79,7 @@ This project successfully demonstrates how to build, deploy, and operate a Teleg
 
 ## 8. Screenshot
 
-![Bot Screenshot](bot-screenshot.jpg)
+![Bot Screenshot](bot-screenshot.jpg.jpg)
+
 
 
