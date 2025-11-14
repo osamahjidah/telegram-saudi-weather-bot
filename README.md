@@ -23,7 +23,7 @@ The bot interacts with users through Telegram and provides weather updates based
 ## 4. Project Structure
 
 The project included the following core files:
-* `main.py`: The main script containing bot logic. (أو `Source Code - bot.py` حسب اسم ملفك)
+* `main.py`: The main script containing bot logic. 
 * `requirements.txt`: A list of dependencies for Heroku.
 * `Procfile`: Used by Heroku to know how to run the app.
 
@@ -80,3 +80,4 @@ This project successfully demonstrates how to build, deploy, and operate a Teleg
 ## 8. Screenshot
 
 ![Bot Screenshot](bot-screenshot.jpg)
+
