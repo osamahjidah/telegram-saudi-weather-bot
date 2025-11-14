@@ -29,7 +29,7 @@ The project included the following core files:
 
 **Example `Procfile` content:**
 **Example `requirements.txt`:**
-ذ
+
 ## 5. Deployment Steps
 
 
@@ -80,4 +80,5 @@ This project successfully demonstrates how to build, deploy, and operate a Teleg
 ## 8. Screenshot
 
 ![Bot Screenshot](bot-screenshot.jpg)
+
 
