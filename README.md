@@ -60,6 +60,10 @@ Example reply:
 ________________________________________
 7. Conclusion
 This project successfully demonstrates how to build, deploy, and operate a Telegram bot using Python and Heroku. It leverages APIs and cloud services to deliver real-time data, offering an engaging user experience with minimal infrastructure overhead.
+________________________________________
+8. Screenshot
+   ![Bot Screenshot](bot-screenshot.jpg)
+
 
 
 
